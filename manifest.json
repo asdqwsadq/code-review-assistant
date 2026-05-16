@@ -1,0 +1,8 @@
+{
+  "name": "code-review-assistant",
+  "version": "1.0.0",
+  "description": "代码审查助手 - AI智能代码审查，发现安全漏洞、性能问题和代码异味",
+  "runtime": "python",
+  "entry": "entry.py",
+  "transport": "stdio"
+}
